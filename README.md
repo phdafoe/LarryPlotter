@@ -68,6 +68,8 @@ y esto nos saca la vision html que hemos escrito
 >Comparar las diferencias en los distintos estados de GIT
 - git diff (este realiza la comparacion de Working con Staging)
 - git diff --staged (este realiza la comparacion de Staging con Repositorio)
+- git diff --cached
+- git diff HEAD
 
 
 
