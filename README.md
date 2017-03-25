@@ -55,6 +55,8 @@ A traves del Terminal invocamos pandoc y el fichero .md que hemos construido, es
 - prompt / pandoc leeme.md
 y esto nos saca la vision html que hemos escrito
 
+- a traves del siguiente comando podemos transformar el .md en html 
+- prompt / pandoc README.md > README.html --> esto nos creara otro fichero README en formato html
 
 
 
