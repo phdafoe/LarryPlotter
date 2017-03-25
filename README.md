@@ -60,6 +60,10 @@ y esto nos saca la vision html que hemos escrito
 
 >Borra un fichero tambien es un cambio de cara a Git, asi que debemos ser concientes de esos cambios y como los interpreta GIT
 
+- cuando borramos un fichero podemos hacerlo de varias formas
+1. fisicamente desde el Finder
+2. a traves del terminal con rm <Nombre del fichero>
+3. git rm <nombre del fichero> -> este ultimo ademas de eliminar ficho fichero lo desplaza al Staging Area y lo saca del Working copy
 
 
 
