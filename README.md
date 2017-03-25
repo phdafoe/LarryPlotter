@@ -58,6 +58,8 @@ y esto nos saca la vision html que hemos escrito
 - a traves del siguiente comando podemos transformar el .md en html 
 - prompt / pandoc README.md > README.html --> esto nos creara otro fichero README en formato html
 
+>Borra un fichero tambien es un cambio de cara a Git, asi que debemos ser concientes de esos cambios y como los interpreta GIT
+
 
 
 
