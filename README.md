@@ -65,6 +65,11 @@ y esto nos saca la vision html que hemos escrito
 2. a traves del terminal con rm <Nombre del fichero>
 3. git rm <nombre del fichero> -> este ultimo ademas de eliminar ficho fichero lo desplaza al Staging Area y lo saca del Working copy
 
+>Comparar las diferencias en los distintos estados de GIT
+- git diff (este realiza la comparacion de Working con Staging)
+- git diff --staged (este realiza la comparacion de Staging con Repositorio)
+
+
 
 
 
